@@ -1,3 +1,28 @@
-.cliff-h1{
-    color: #99ccff;
+body{
+    background-image: url(https://th.bing.com/th/id/R.4c44ffb3128ea2386e94675af604a8e4?rik=rh4H8KfpM7jGNg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fBlack-Background-Images.jpg&ehk=GF%2fx2TdurjLr3LDjKtvz4uUtmU48SpF%2f2z3z1mHxg0E%3d&risl=&pid=ImgRaw&r=0);
+}
+.sarah-h1{
+    color: #a1a2a3;
+    text-align: center;
+    text-decoration:wavy;
+    text-shadow: 2px;
+}
+p{
+    color: red;
+    text-size-adjust: 14px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.sar-h1{
+    text-align: left;
+    color: aliceblue;
+    margin-top: 25px;margin-left: 150px;
+    text-size-adjust: 1000px;
+    text-decoration-color: antiquewhite;
+}
+.sars{
+    color: red;
+    text-size-adjust: 14px;
+    margin-left: 50px;
+    margin-top: 10px;
 }
